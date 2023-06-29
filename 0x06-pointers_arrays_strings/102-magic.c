@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * main - the program that prints a[2] = 98
+ *
+ * Return: Always 0
+ */
 int main(void)
 {
 	int n;
